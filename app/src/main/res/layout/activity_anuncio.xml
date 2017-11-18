@@ -67,7 +67,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="0.34"
         android:hint="Latitude"
-        android:inputType="numberSigned"
+        android:inputType="text|number"
         android:layout_above="@+id/longitute"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
@@ -77,7 +77,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="0.34"
         android:hint="Longitute"
-        android:inputType="numberSigned"
+        android:inputType="text|number"
         android:layout_above="@+id/descricao"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
