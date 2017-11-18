@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "208315361741",
+    "firebase_url": "https://login-d1247.firebaseio.com",
+    "project_id": "login-d1247",
+    "storage_bucket": "login-d1247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208315361741:android:6050dc1b90f1da3a",
+        "android_client_info": {
+          "package_name": "com.example.tux.base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208315361741-cfk961qbe6i48m9kdeebm850ml677mr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tux.base",
+            "certificate_hash": "d9139e79f8c45eb222299ddb62d3627a78873dc6"
+          }
+        },
+        {
+          "client_id": "208315361741-m4nhg1lhnqe20vdn5o4hvueb398s9pqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBL_909AJfnJkMPMlrbXxqQNuNqCz5Dws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208315361741-m4nhg1lhnqe20vdn5o4hvueb398s9pqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208315361741:android:453080ce1a6484ee",
+        "android_client_info": {
+          "package_name": "com.example.rodrigo.cadastrofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208315361741-6gfn1tds6neb0jf9r3cvdb8tg6km0oi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rodrigo.cadastrofire",
+            "certificate_hash": "2d5af8378ae20b7d4a25486434295eb41231e450"
+          }
+        },
+        {
+          "client_id": "208315361741-m4nhg1lhnqe20vdn5o4hvueb398s9pqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBL_909AJfnJkMPMlrbXxqQNuNqCz5Dws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208315361741-m4nhg1lhnqe20vdn5o4hvueb398s9pqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208315361741:android:1f1604b8e539ca44",
+        "android_client_info": {
+          "package_name": "com.example.rodrigo.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208315361741-ohktms946709792036otu22uvmg5n309.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rodrigo.shopapp",
+            "certificate_hash": "2d5af8378ae20b7d4a25486434295eb41231e450"
+          }
+        },
+        {
+          "client_id": "208315361741-m4nhg1lhnqe20vdn5o4hvueb398s9pqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBL_909AJfnJkMPMlrbXxqQNuNqCz5Dws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208315361741-m4nhg1lhnqe20vdn5o4hvueb398s9pqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208315361741:android:cf90b0cb6378b2e3",
+        "android_client_info": {
+          "package_name": "com.example.rodrigo.singin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208315361741-1leoekbto36jm4b77ud2pph2rt7b668f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rodrigo.singin",
+            "certificate_hash": "2d5af8378ae20b7d4a25486434295eb41231e450"
+          }
+        },
+        {
+          "client_id": "208315361741-m4nhg1lhnqe20vdn5o4hvueb398s9pqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBL_909AJfnJkMPMlrbXxqQNuNqCz5Dws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208315361741-m4nhg1lhnqe20vdn5o4hvueb398s9pqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
